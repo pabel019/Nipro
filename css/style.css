@@ -128,7 +128,7 @@ global css start
     padding: 10px 5px;
     transition: 1s;
     border: 1px solid #fff;
-    margin: 40px 0px 364px;
+    margin: 40px 0px 380px;
     background: #fff;
 }
 
@@ -431,6 +431,7 @@ global css start
 .testimonials .testimonial-head {
     width: 100%;
     padding: 90px 0px 35px;
+    text-align: center;
 }
 
 .testimonials .testimonial-head ul {
@@ -447,13 +448,23 @@ global css start
     text-transform: uppercase;
     margin: 0px 0px 0px 25px;
     font-weight: 500;
+    padding: 3px 5px;
+    border: 1px solid #8e8e8e;
+    transition: 0.8s ease-in-out;
 }
 
-.testimonials .testimonial-head .active {
+.testimonials .testimonial-head ul li:hover {
+    color: #fff;
+    border: 1px solid #0C86EE;
+    background: #0C86EE;
+}
+
+
+/* .testimonials .testimonial-head .active {
     color: #000;
     border: 1px solid #000;
     padding: 2px 5px;
-}
+} */
 
 .testimonials .testimonials-img {
     position: relative;
@@ -1142,3 +1153,11 @@ global css start
     margin: 0px 0px 0px 25px;
     color: #f8f8f8;
 }
+
+
+/* ******************************************
+mixit up css
+
+
+
+*/
