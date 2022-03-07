@@ -999,6 +999,10 @@ global css start
     justify-content: space-between;
 }
 
+.contact .form-control:focus {
+    box-shadow: none;
+}
+
 .contact .form-info .main-form .input-head .form-control {
     border: none;
     padding: 20px 15px;
