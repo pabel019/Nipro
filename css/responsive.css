@@ -602,14 +602,17 @@
             margin: 0px 0px 40px;
         }
         .pricing .price .price-top {
-            width: 14%;
+            width: 9%;
             margin-left: 2px;
         }
         .pricing .price .price-item-2 {
-            width: 25%;
+            width: 18%;
         }
         .pricing .price .price-item-3 {
-            width: 28%;
+            width: 19%;
+        }
+        .pricing .price .price-item-4 {
+            width: 16%;
         }
         .responsive .button-group {
             margin: 30px 0px 0px 0px;
