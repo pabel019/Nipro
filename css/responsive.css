@@ -1,12 +1,302 @@
     /* most low level resulation like galaxy fold */
     
-    @media (min-widht: 279px) and (max-widht: 319px) {}
+    @media (min-widht: 279px) and (max-widht: 319px) {
+        .header .navbar-light .navbar-nav .nav-link {
+            margin: 5px 0px 0px 12px;
+        }
+        .header .navbar-light .navbar-nav .nav-icon {
+            margin: 17px 0px 0px 14px;
+        }
+        .banner h2 {
+            font-size: 45px;
+            line-height: 55px;
+            padding: 100px 0px 40px;
+            text-align: center;
+        }
+        .banner p {
+            width: 100%;
+            font-size: 16px;
+            line-height: 26px;
+            text-align: justify;
+        }
+        .banner .button-group {
+            margin-left: 40px;
+        }
+        .banner .prev {
+            margin: 0px 0px 20px 90px;
+        }
+        .feature .title h2 {
+            font-size: 40px;
+            line-height: 50px;
+        }
+        .feature .title p {
+            font-size: 15px;
+            line-height: 25px;
+            text-align: justify;
+        }
+        .service {
+            padding: 80px 0px 40px;
+        }
+        .service .service-part {
+            margin: 0px 0px 50px;
+        }
+        .about {
+            width: 100%;
+            padding: 0px 0px 80px;
+        }
+        .about .about-img img {
+            margin: 0px 0px 0px 13px;
+        }
+        .about .about-content h2 {
+            text-align: center;
+            margin: 20px 0px 0px;
+        }
+        .about .about-content p {
+            text-align: justify;
+            margin: 15px 0px 0px;
+        }
+        .about .about-content .button-group {
+            margin: 40px 0px 0px 40px;
+        }
+        .testimonials .testimonial-head {
+            padding: 35px 0px 35px;
+        }
+        .testimonials .testimonial-head ul {
+            padding: 0px 0px 0px 40px;
+        }
+        .testimonials .testimonial-head ul li {
+            font-size: 18px;
+            line-height: 28px;
+            margin: 10px 70px 0px 25px;
+        }
+        .testimonials .testimonials-img {
+            width: 300px;
+            height: 250px;
+            margin: 0px 17px 20px 0px;
+        }
+        .testimonials .testimonials-img i {
+            font-size: 60px;
+            line-height: 70px;
+        }
+        .choose-nipro .title {
+            padding: 0px 0px 20px;
+        }
+        .choose-nipro .choose-nipro-sec {
+            width: 90%;
+            margin: 40px 30px 20px 20px;
+        }
+        .who-work {
+            padding: 80px 0px 70px;
+        }
+        .who-work .title img {
+            width: 280px;
+        }
+        .pricing {
+            padding: 0px 0px 60px;
+        }
+        .pricing .title {
+            padding: 0px 0px 40PX;
+        }
+        .price {
+            margin: 0px 0px 40px;
+        }
+        .responsive .button-group {
+            margin: 30px 0px 0px 0px;
+        }
+        .identify .indentify-body .identidy-content p {
+            text-align: justify;
+        }
+        .identify .prev-next-btn img {
+            margin: 0px 0px 0px 120px;
+        }
+        .contact .form-info {
+            padding: 0px 30px 20px;
+        }
+        .contact .form-info .contact-heading {
+            width: 200px;
+            height: 30px;
+            padding: 0px 0px 80px;
+            transform: translateX(-160%);
+        }
+        .contact .form-info .main-form .input-head .form-control {
+            width: 80%;
+            margin: 0px 10px 0px 0px;
+        }
+        .footer .footer-uper-part img {
+            transform: translateY(-50%);
+        }
+        .footer .footer-uper-part p {
+            width: 100%;
+            text-align: justify;
+            transform: translateX(-0px);
+        }
+        .footer .footer-uper-part .footer-icons {
+            padding: 25px 40px 0px 0px;
+        }
+        .footer .footer-uper-part .footer-icons ul li {
+            margin-bottom: 35px;
+        }
+        .footer .footer-right ul {
+            padding: 10px 2px 0px 0px;
+        }
+    }
     /* 
   ##Device = Most of the Smartphones Mobiles (Portrait)
   ##Screen = B/w 320px to 479px
 */
     
-    @media (min-width: 320px) and (max-width: 480px) {}
+    @media (min-width: 320px) and (max-width: 480px) {
+        .header .navbar-light .navbar-nav .nav-link {
+            margin: 5px 0px 0px 12px;
+        }
+        .header .navbar-light .navbar-nav .nav-icon {
+            margin: 17px 0px 0px 14px;
+        }
+        .banner h2 {
+            font-size: 45px;
+            line-height: 55px;
+            padding: 100px 0px 40px;
+            text-align: center;
+        }
+        .banner p {
+            width: 100%;
+            font-size: 16px;
+            line-height: 26px;
+            text-align: justify;
+        }
+        .banner p {
+            width: 100%;
+            font-size: 16px;
+            line-height: 26px;
+            text-align: justify;
+            margin: 0px 0px 40px;
+        }
+        .banner .prev {
+            text-align: center;
+            padding: 380px 0px 40px;
+        }
+        .banner .button-group {
+            margin: 0 auto;
+        }
+        .feature .title h2 {
+            font-size: 40px;
+            line-height: 50px;
+        }
+        .feature .title p {
+            font-size: 15px;
+            line-height: 25px;
+            text-align: justify;
+        }
+        .service {
+            padding: 80px 0px 40px;
+        }
+        .service .service-part {
+            margin: 0px 0px 50px;
+        }
+        .about {
+            width: 100%;
+            padding: 0px 0px 80px;
+        }
+        .about .about-img img {
+            margin: 0px 0px 0px 13px;
+        }
+        .about .about-content h2 {
+            text-align: center;
+            margin: 20px 0px 0px;
+        }
+        .about .about-content p {
+            text-align: justify;
+            margin: 15px 0px 0px;
+        }
+        .about .about-content .button-group {
+            margin: 40px 0px 0px 40px;
+        }
+        .testimonials .testimonial-head {
+            padding: 35px 0px 35px;
+        }
+        .testimonials .testimonial-head ul {
+            padding: 0px 0px 0px 40px;
+        }
+        .testimonials .testimonial-head ul li {
+            font-size: 18px;
+            line-height: 28px;
+            margin: 10px 70px 0px 25px;
+        }
+        .testimonials .testimonials-img {
+            width: 100%;
+            height: 350px;
+            margin: 0px 17px 20px 0px;
+        }
+        .testimonials .testimonials-img::after {
+            width: 150%;
+            height: 490px;
+        }
+        .testimonials .testimonials-img i {
+            font-size: 60px;
+            line-height: 70px;
+        }
+        .choose-nipro .title {
+            padding: 0px 0px 20px;
+        }
+        .choose-nipro .choose-nipro-sec {
+            width: 90%;
+            margin: 40px 30px 20px 20px;
+        }
+        .who-work {
+            padding: 80px 0px 70px;
+        }
+        .who-work .title img {
+            width: 280px;
+        }
+        .pricing {
+            padding: 0px 0px 60px;
+        }
+        .pricing .title {
+            padding: 0px 0px 40PX;
+        }
+        .price {
+            margin: 0px 0px 40px;
+        }
+        .responsive .button-group {
+            margin: 30px 0px 0px 0px;
+        }
+        .identify .indentify-body .identidy-content p {
+            text-align: justify;
+        }
+        .identify .prev-next-btn img {
+            margin: 0px 0px 0px 120px;
+        }
+        .contact .form-info {
+            padding: 0px 30px 20px;
+        }
+        .contact .form-info .contact-heading {
+            width: 200px;
+            height: 30px;
+            padding: 0px 0px 80px;
+            transform: translateX(-160%);
+        }
+        .contact .form-info .main-form .input-head .form-control {
+            width: 80%;
+            margin: 0px 10px 0px 0px;
+        }
+        .footer .footer-uper-part img {
+            transform: translateY(-50%);
+        }
+        .footer .footer-uper-part p {
+            width: 100%;
+            text-align: justify;
+            transform: translateX(-0px);
+        }
+        .footer .footer-uper-part .footer-icons {
+            padding: 25px 40px 0px 0px;
+        }
+        .footer .footer-uper-part .footer-icons ul li {
+            margin-bottom: 35px;
+        }
+        .footer .footer-right ul {
+            padding: 10px 2px 0px 0px;
+        }
+    }
     /* CSS */
     /* *******************************************
 *****************global css start*******************
@@ -18,6 +308,172 @@
     
     @media (min-width: 481px) and (max-width: 767px) {
         /* CSS */
+        .header .navbar-light .navbar-nav .nav-link {
+            margin: 5px 0px 0px 12px;
+        }
+        .header .navbar-light .navbar-nav .nav-icon {
+            margin: 17px 0px 0px 14px;
+        }
+        .banner h2 {
+            font-size: 45px;
+            line-height: 55px;
+            padding: 100px 0px 40px;
+            text-align: center;
+        }
+        .banner p {
+            width: 100%;
+            font-size: 16px;
+            line-height: 26px;
+            text-align: justify;
+            margin: 0px 0px 40px;
+        }
+        .banner .prev {
+            text-align: center;
+            padding: 380px 0px 40px;
+        }
+        .banner .button-group {
+            margin: 0 auto;
+        }
+        .feature .title h2 {
+            font-size: 40px;
+            line-height: 50px;
+        }
+        .feature .title p {
+            font-size: 15px;
+            line-height: 25px;
+            text-align: justify;
+        }
+        .service {
+            padding: 80px 0px 40px;
+        }
+        .service .service-part {
+            margin: 0px 0px 50px;
+        }
+        .service .service-part .diamond {
+            transform: translateX(80px);
+        }
+        .service .service-part .rocket {
+            transform: translateX(80px);
+        }
+        .service .service-part .book {
+            transform: translateX(80px);
+        }
+        .service .service-part .safety {
+            transform: translateX(80px);
+        }
+        .about {
+            width: 100%;
+            padding: 0px 0px 80px;
+        }
+        .about .about-img img {
+            margin: 0px 0px 0px 13px;
+        }
+        .about .about-content h2 {
+            text-align: center;
+            margin: 20px 0px 0px;
+        }
+        .about .about-content p {
+            text-align: justify;
+            margin: 15px 0px 40px;
+        }
+        .about .about-content .button-group {
+            margin: 0 auto;
+        }
+        .testimonials .testimonial-head {
+            padding: 35px 0px 35px;
+        }
+        .testimonials .testimonial-head ul {
+            padding: 0px 50px 0px 120px;
+        }
+        .testimonials .testimonial-head ul li {
+            font-size: 18px;
+            line-height: 28px;
+            margin: 10px 70px 0px 25px;
+        }
+        .testimonials .testimonials-img {
+            width: 100%;
+            height: 450px;
+            margin: 0px 17px 20px 0px;
+        }
+        .testimonials .testimonials-img::after {
+            width: 150%;
+            height: 590px;
+        }
+        .testimonials .testimonials-img i {
+            font-size: 90px;
+            line-height: 100px;
+        }
+        .choose-nipro .title {
+            padding: 0px 0px 20px;
+        }
+        .choose-nipro .choose-nipro-sec {
+            width: 90%;
+            margin: 40px 30px 20px 20px;
+        }
+        .who-work {
+            padding: 80px 0px 70px;
+        }
+        .who-work .title img {
+            width: 280px;
+        }
+        .pricing {
+            padding: 0px 0px 60px;
+        }
+        .pricing .title {
+            padding: 0px 0px 40PX;
+        }
+        .price {
+            margin: 0px 0px 40px;
+        }
+        .pricing .price .price-top {
+            width: 14%;
+            margin-left: 2px;
+        }
+        .pricing .price .price-item-2 {
+            width: 25%;
+        }
+        .pricing .price .price-item-3 {
+            width: 28%;
+        }
+        .responsive .button-group {
+            margin: 30px 0px 0px 0px;
+        }
+        .identify .indentify-body .identidy-content p {
+            text-align: justify;
+        }
+        .identify .prev-next-btn img {
+            margin: 0px 0px 0px 190px;
+        }
+        .contact .form-info {
+            padding: 0px 30px 20px;
+        }
+        .contact .form-info .contact-heading {
+            width: 200px;
+            height: 30px;
+            padding: 0px 0px 80px;
+            transform: translateX(-120%);
+        }
+        .contact .form-info .main-form .input-head .form-control {
+            width: 80%;
+            margin: 0px 10px 0px 0px;
+        }
+        .footer .footer-uper-part img {
+            transform: translateY(-50%);
+        }
+        .footer .footer-uper-part p {
+            width: 100%;
+            text-align: justify;
+            transform: translateX(-0px);
+        }
+        .footer .footer-uper-part .footer-icons {
+            padding: 25px 40px 0px 0px;
+        }
+        .footer .footer-uper-part .footer-icons ul li {
+            margin-bottom: 0px;
+        }
+        .footer .footer-right ul {
+            padding: 10px 2px 0px 0px;
+        }
     }
     /* 
   ##Device = Tablets, Ipads (portrait)
@@ -25,5 +481,174 @@
 */
     
     @media (min-width: 768px) and (max-width: 1024px) {
+        .header .navbar-light .navbar-nav .nav-link {
+            margin: 5px 0px 0px 12px;
+        }
+        .header .navbar-light .navbar-nav .nav-icon {
+            margin: 17px 0px 0px 14px;
+        }
+        .banner h2 {
+            font-size: 45px;
+            line-height: 55px;
+            padding: 100px 0px 40px;
+            text-align: center;
+        }
+        .banner p {
+            width: 100%;
+            font-size: 16px;
+            line-height: 26px;
+            text-align: justify;
+            margin: 0px 0px 40px;
+        }
+        .banner .prev {
+            text-align: center;
+            padding: 380px 0px 40px;
+        }
+        .banner .button-group {
+            margin: 0 auto;
+        }
+        .feature .title h2 {
+            font-size: 40px;
+            line-height: 50px;
+        }
+        .feature .title p {
+            font-size: 15px;
+            line-height: 25px;
+            text-align: justify;
+        }
+        .service {
+            padding: 80px 0px 40px;
+        }
+        .service .service-part {
+            margin: 0px 0px 50px;
+        }
+        .service .service-part .diamond {
+            transform: translateX(190px);
+        }
+        .service .service-part .rocket {
+            transform: translateX(190px);
+        }
+        .service .service-part .book {
+            transform: translateX(190px);
+        }
+        .service .service-part .safety {
+            transform: translateX(190px);
+        }
+        .service .service-part .button-group {
+            padding: 0px 0px 40px;
+        }
+        .about {
+            width: 100%;
+            padding: 0px 0px 80px;
+        }
+        .about .about-img img {
+            margin: 0px 0px 0px 28px;
+        }
+        .about .about-content h2 {
+            text-align: center;
+            margin: 20px 0px 0px;
+        }
+        .about .about-content p {
+            text-align: justify;
+            margin: 15px 0px 40px;
+        }
+        .about .about-content .button-group {
+            margin: 0 auto;
+        }
+        .testimonials .testimonial-head {
+            padding: 35px 0px 35px;
+        }
+        .testimonials .testimonial-head ul {
+            padding: 0px 0px 0px 0px;
+        }
+        .testimonials .testimonial-head ul li {
+            font-size: 18px;
+            line-height: 28px;
+            margin: 10px 0px 0px 10px;
+        }
+        .testimonials .testimonials-img {
+            width: 100%;
+            height: 450px;
+            margin: 0px 17px 20px 0px;
+        }
+        .testimonials .testimonials-img::after {
+            width: 150%;
+            height: 590px;
+        }
+        .testimonials .testimonials-img i {
+            font-size: 90px;
+            line-height: 100px;
+        }
+        .choose-nipro .title {
+            padding: 0px 0px 20px;
+        }
+        .choose-nipro .choose-nipro-sec {
+            width: 90%;
+            margin: 40px 30px 20px 20px;
+        }
+        .who-work {
+            padding: 80px 0px 70px;
+        }
+        .who-work .title img {
+            width: 280px;
+        }
+        .pricing {
+            padding: 0px 0px 60px;
+        }
+        .pricing .title {
+            padding: 0px 0px 40PX;
+        }
+        .price {
+            margin: 0px 0px 40px;
+        }
+        .pricing .price .price-top {
+            width: 14%;
+            margin-left: 2px;
+        }
+        .pricing .price .price-item-2 {
+            width: 25%;
+        }
+        .pricing .price .price-item-3 {
+            width: 28%;
+        }
+        .responsive .button-group {
+            margin: 30px 0px 0px 0px;
+        }
+        .identify .indentify-body .identidy-content p {
+            text-align: justify;
+        }
+        .identify .prev-next-btn img {
+            margin: 0px 0px 0px 250px;
+        }
+        .contact .form-info {
+            padding: 0px 30px 20px;
+        }
+        .contact .form-info .contact-heading {
+            width: 200px;
+            height: 30px;
+            padding: 0px 0px 80px;
+            transform: translateX(-55%);
+        }
+        .contact .form-info .main-form .input-head .form-control {
+            width: 80%;
+            margin: 0px 10px 0px 0px;
+        }
+        .footer .footer-uper-part img {
+            transform: translateY(-50%);
+        }
+        .footer .footer-uper-part p {
+            width: 100%;
+            text-align: justify;
+            transform: translateX(-0px);
+        }
+        .footer .footer-uper-part .footer-icons {
+            padding: 25px 40px 0px 0px;
+        }
+        .footer .footer-uper-part .footer-icons ul li {
+            margin-bottom: 0px;
+        }
+        .footer .footer-right ul {
+            padding: 10px 2px 0px 0px;
+        }
         /* css */
     }
